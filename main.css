@@ -30,6 +30,11 @@ body {
     justify-content: flex-end;
 }
 
+.btn-dark {
+  font-family: 'ramillas';
+  font-size:xx-large;
+}
+
 .description {
 	left: 50%;
 	position: absolute;
